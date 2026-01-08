@@ -11,7 +11,7 @@ const whyChooseUs = [
   icon: Truck,
   title: "Worldwide Delivery",
   description: "We deliver to any location worldwide with fast and reliable shipping."
-}
+},
 
 
   {
