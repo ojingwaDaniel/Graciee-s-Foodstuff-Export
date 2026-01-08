@@ -15,7 +15,7 @@ export default function Navigation({ scrolled, onCartClick }) {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="flex items-center gap-3">
-            <div className="w-16 h-16 sm:w-14 sm:h-14 rounded-xl flex items-center justify-center shadow-lg transition-all">
+            <div className="w-16 h-16 sm:w-14 sm:h-14 rounded-xl flex items-center justify-center transition-all">
               <img 
                 src={companyLogo} 
                 alt="Graciee's Foodstuff Export Logo" 
