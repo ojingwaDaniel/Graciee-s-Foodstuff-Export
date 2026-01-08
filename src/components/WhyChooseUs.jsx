@@ -8,10 +8,12 @@ const whyChooseUs = [
     description: "All products inspected and certified before delivery"
   },
   {
-    icon: Truck,
-    title: "Fast Delivery",
-    description: "Same-day delivery in Jos. Nationwide shipping available."
-  },
+  icon: Truck,
+  title: "Worldwide Delivery",
+  description: "We deliver to any location worldwide with fast and reliable shipping."
+}
+
+
   {
     icon: Award,
     title: "Premium Products",
