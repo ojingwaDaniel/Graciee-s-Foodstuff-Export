@@ -1,5 +1,5 @@
 export const openWhatsApp = (product, quantity = 1) => {
-  const phone = "2348101338296";
+  const phone = "2347031572272";
 
   // SAFE ASCII message
   const message =

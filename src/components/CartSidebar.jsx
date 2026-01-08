@@ -23,7 +23,7 @@ export default function CartSidebar({ isOpen, onClose }) {
   };
 
   const sendWhatsAppOrder = () => {
-    const phone = "2348101338296"; 
+    const phone = "2347031572272"; 
     const message = generateWhatsAppMessage();
     const whatsappUrl = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
