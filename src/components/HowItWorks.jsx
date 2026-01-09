@@ -2,7 +2,7 @@ import React from 'react';
 
 const steps = [
   { number: "01", title: "Browse Products", description: "Explore our premium foodstuff selection and add to chart" },
-  { number: "02", title: "Click on order via whatsapp'", description: "Select your desired quantity" },
+  { number: "02", title: "Click on order via whatsapp", description: "Select your desired quantity" },
   { number: "03", title: "Confirm Order", description: "We'll confirm pricing and delivery" },
   { number: "04", title: "Receive Fresh", description: "Fast delivery to your doorstep" }
 ];
