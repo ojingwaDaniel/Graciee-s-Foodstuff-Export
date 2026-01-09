@@ -69,7 +69,7 @@ export default function Certifications() {
                   <CheckCircle className="text-emerald-600 flex-shrink-0 mt-1" size={20} strokeWidth={2.5} />
                   <div>
                     <p className="font-bold text-gray-900">Company Name</p>
-                    <p className="text-sm text-gray-600">Graciee's Foodstuff Exports</p>
+                    <p className="text-sm text-gray-600">Graciee's Foodstuffs Exports</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">

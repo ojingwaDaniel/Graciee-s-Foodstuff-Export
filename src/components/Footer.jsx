@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="w-11 h-11  from-emerald-600 to-emerald-800 rounded-xl flex items-center justify-center shadow-lg">
                             <img src={companyLogo} alt="Company Logo" />
                           </div>
-              <span className="text-2xl font-black">Graciee's Foodstuff Export</span>
+              <span className="text-2xl font-black">Graciee's Foodstuffs Export</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Nigeria's premium foodstuff supplier. Quality you can trust.

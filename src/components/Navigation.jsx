@@ -24,7 +24,7 @@ export default function Navigation({ scrolled, onCartClick }) {
             </div>
             {/* Company Name - Hidden on mobile, visible from md (768px) and up */}
             <span className={`hidden md:block text-xl lg:text-2xl font-bold tracking-tight ${scrolled ? 'text-gray-900' : 'text-white drop-shadow-lg'}`}>
-              Graciee's Foodstuff Export
+              Graciee's Foodstuffs Export
             </span>
           </div>
 
