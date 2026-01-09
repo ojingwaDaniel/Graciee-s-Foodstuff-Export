@@ -29,7 +29,7 @@ export default function Hero() {
 
         {/* Subheading */}
         <p className="text-lg sm:text-xl md:text-2xl text-gray-100 mb-10 max-w-3xl leading-relaxed font-light">
-          Premium rice, garri, beans, palm oil & spices. 100% quality guaranteed. Order via WhatsApp in seconds.
+          Bringing Quality Ingredients To Your Table 
         </p>
 
         {/* CTA Buttons */}
