@@ -21,15 +21,15 @@ export default function Hero() {
 
         {/* Main Heading */}
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-white mb-6 leading-tight tracking-tight">
-          Fresh Foodstuff<br />
+          Bringing Quality  <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-500">
-            Delivered to Your Door
+           Ingredients To Your Table
           </span>
         </h1>
 
         {/* Subheading */}
         <p className="text-lg sm:text-xl md:text-2xl text-gray-100 mb-10 max-w-3xl leading-relaxed font-light">
-          Bringing Quality Ingredients To Your Table 
+          Premium rice, garri, beans, palm oil & spices. 100% quality guaranteed. Order via WhatsApp in seconds.
         </p>
 
         {/* CTA Buttons */}
